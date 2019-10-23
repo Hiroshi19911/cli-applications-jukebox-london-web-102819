@@ -4,4 +4,4 @@ my_songs = {
   "LiberTeens" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/02.mp3',
   "Hamburg" =>  '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/03.mp3',
   "Guiding Light" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/04.mp3',
-  
+  "Wolf" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/05.mp3',

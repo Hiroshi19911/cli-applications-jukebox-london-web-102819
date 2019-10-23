@@ -6,3 +6,4 @@ my_songs = {
   "Guiding Light" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/04.mp3',
   "Wolf" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/05.mp3',
   "Blue" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/06.mp3',
+  "Graduation Failed" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/07.mp3'

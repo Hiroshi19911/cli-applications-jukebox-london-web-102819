@@ -9,5 +9,5 @@ my_songs = {
   "Graduation Failed" => '/users/zadams/.atom/code/labs/jukebox-cli/audio/Emerald-Park/07.mp3'
   
   
-
+def help
 
